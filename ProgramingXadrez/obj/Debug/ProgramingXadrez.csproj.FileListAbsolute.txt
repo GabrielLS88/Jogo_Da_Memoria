@@ -1,0 +1,10 @@
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\bin\Debug\ProgramingXadrez.exe.config
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\bin\Debug\ProgramingXadrez.exe
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\bin\Debug\ProgramingXadrez.pdb
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\obj\Debug\ProgramingXadrez.csproj.AssemblyReference.cache
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\obj\Debug\ProgramingXadrez.Form1.resources
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\obj\Debug\ProgramingXadrez.Properties.Resources.resources
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\obj\Debug\ProgramingXadrez.csproj.GenerateResource.cache
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\obj\Debug\ProgramingXadrez.csproj.CoreCompileInputs.cache
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\obj\Debug\ProgramingXadrez.exe
+C:\Users\lopes\source\repos\ProgramingXadrez\ProgramingXadrez\obj\Debug\ProgramingXadrez.pdb
